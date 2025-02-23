@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Chatbot</title>
+    <link rel="stylesheet" href="static/style.css" />
+  </head>
+  <body>
+    
+
+
+    {% comment %} <script>
+      // JavaScript for sending messages
+      const chatWindow = document.getElementById("chat-window");
+      const userInput = document.getElementById("user-input");
+      const sendBtn = document.getElementById("send-btn");
+
+      sendBtn.addEventListener("click", () => {
+        const userMessage = userInput.value.trim();
+        if (userMessage) {
+          // Add user message to chat window
+          const userMessageDiv = document.createElement("div");
+          userMessageDiv.className = "message user-message";
+          userMessageDiv.innerHTML = `<p>${userMessage}</p>`;
+          chatWindow.appendChild(userMessageDiv);
+
+          // Clear input field
+          userInput.value = "";
+
+          // Scroll to the bottom of the chat window
+          chatWindow.scrollTop = chatWindow.scrollHeight;
+
+          // Simulate bot response (optional)
+          setTimeout(() => {
+            const botMessageDiv = document.createElement("div");
+            botMessageDiv.className = "message bot-message";
+            botMessageDiv.innerHTML = `<p>I received your message: "${userMessage}".</p>`;
+            chatWindow.appendChild(botMessageDiv);
+            chatWindow.scrollTop = chatWindow.scrollHeight;
+          }, 1000);
+        }
+      });
+    </script> {% endcomment %}
+  </body>
+</html>
