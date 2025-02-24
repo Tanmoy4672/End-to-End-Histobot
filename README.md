@@ -17,6 +17,12 @@ Here used only 5 books and documentation data written about Bangladesh history:
 ![Static Badge](https://img.shields.io/badge/langchain%20-white?style=for-the-badge&logo=langchain&logoColor=%231C3C3C&labelColor=black&color=black) 
 ![Static Badge](https://img.shields.io/badge/pinecone%20-white?style=for-the-badge&labelColor=black&color=black) 
 ![Static Badge](https://img.shields.io/badge/flask%20-white?style=for-the-badge&logo=flask&logoColor=white&labelColor=black&color=black) 
+![Static Badge](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&logoColor=%23E34F26)
+![Static Badge](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=%231572B6)
+![Static Badge](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Static Badge](https://img.shields.io/badge/jquery-black?style=for-the-badge&logo=jquery&logoColor=%230769AD)
+
+
 
 ## How to Run : 
 
@@ -54,7 +60,15 @@ python app.py
 
 #### Localhost:8080
 >  Histobot appear right corner of the website
- 
+<div style="text-align: center;">
+
+
+|                           |                           |                           |
+|---------------------------|---------------------------|---------------------------|
+| ![HistoBOT UI 1](https://github.com/Tanmoy4672/End-to-End-Histobot/blob/b032ffef3867aad69f03968987670791e34ff07b/HistoBOT_UI/Screenshot%20from%202025-02-23%2011-30-30.png?width=300) | ![HistoBOT UI 2](https://github.com/Tanmoy4672/End-to-End-Histobot/blob/b032ffef3867aad69f03968987670791e34ff07b/HistoBOT_UI/Screenshot%20from%202025-02-23%2011-31-51.png?width=300) | ![HistoBOT UI 3](https://github.com/Tanmoy4672/End-to-End-Histobot/blob/b032ffef3867aad69f03968987670791e34ff07b/HistoBOT_UI/Screenshot%20from%202025-02-23%2011-32-49.png?width=300) |
+
+</div>
+
 
 
 
