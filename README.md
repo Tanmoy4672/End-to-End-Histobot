@@ -1,6 +1,14 @@
-# End-to-End-HistoBot: A Gen AI Bot for Bangladesh History 
+# HistoBot: A Gen AI Bot for Bangladesh History 
 
 A History Bot designed to receive questions about Bangladesh's history from users and provide detailed, accurate responses based on its knowledge of the subject.
+
+## Dataset : 
+Here used only 5 books and documentation data written about Bangladesh history:
+- Bangladesh Legacy of Blood Anthony Mascarenhas (1986), Reproduced by Sani H. Panhwar (2022)
+- A Brief History of Bangladesh With Essays on Bangladesh Studies, Dr. S M A Mamun Chowdhury
+- A History of BANGLADESH, Willem van Schendel
+- The Bangladesh Reader History, Culture, Politics, Meghna Guhathakurta and Willem van Schendel
+- Through Metal Fences: Material Mobility and the Politics of Transnationality at Borders, Malini Sur
 
 ## Technologies : 
 
@@ -43,6 +51,11 @@ OPENAI_API_KEY = "OPENAI-API-KEY"
 ```bash
 python app.py
 ```
+
+#### Localhost:8080
+>  Histobot appear right corner of the website
+ 
+
 
 
 
